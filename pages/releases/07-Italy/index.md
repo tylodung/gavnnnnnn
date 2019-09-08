@@ -27,7 +27,6 @@ discogs:
 ## Địa chỉ & Đặt mua online giao tận nơi
 
 - Địa chỉ: Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
-- Điện thoại giao ngay: **093-887-8827** Huỳnh Nga.
 
 
 ## THÔNG TIN
