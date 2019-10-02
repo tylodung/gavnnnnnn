@@ -11,7 +11,7 @@ keywords: Bữa ăn dành cho học sinh của trường học ở phía tây n�
 
 location: Food
 prices: 0
-orders: tel:+84938878827
+orders: tel:+84902683189
 messages: http://m.me/phuquoctrasua
 website: 
 YoutubeID: 
@@ -26,7 +26,7 @@ discogs:
 
 ## Địa chỉ & Đặt mua online giao tận nơi
 
-- Địa chỉ: Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
+- Địa chỉ: 165 Nguyễn Trung Trực, Thị trấn Dương Đông, Thành phố Phú Quốc
 
 
 ## THÔNG TIN
@@ -37,8 +37,8 @@ Rau bina,
 
 Khoai tây, 
 
-Pho mát 
+Pho mát; 
 
-Và bánh mì 
+Và bánh mì. 
 
 Là bữa ăn dành cho học sinh của một trường học ở phía tây nước Pháp. 

@@ -11,7 +11,7 @@ keywords: Bữa ăn dành cho học sinh của trường học ở Italy
 
 location: Food
 prices: 0
-orders: tel:+84938878827
+orders: tel:+84902683189
 messages: http://m.me/phuquoctrasua
 website: 
 YoutubeID: 
@@ -26,12 +26,16 @@ discogs:
 
 ## Địa chỉ & Đặt mua online giao tận nơi
 
-- Địa chỉ: Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương
+- Địa chỉ:  165 Nguyễn Trung Trực, Thị trấn Dương Đông, Thành phố Phú Quốc
 
 
 ## THÔNG TIN
 
-Bữa trưa tại trường học Italy được làm từ những nguyên liệu tươi, thường là thực phẩm địa phương. Pasta là món ăn phổ biến. Trong hình là pasta sốt cà chua tươi tự làm. Trẻ em có một bữa chính, một bữa ăn nhẹ và tráng miệng ở trường.
+Bữa trưa tại trường học Italy được làm từ những nguyên liệu tươi, thường là thực phẩm địa phương. 
+
+Pasta là món ăn phổ biến. Trong hình là pasta sốt cà chua tươi tự làm. 
+
+Trẻ em có một bữa chính, một bữa ăn nhẹ và tráng miệng ở trường.
 
 
 
